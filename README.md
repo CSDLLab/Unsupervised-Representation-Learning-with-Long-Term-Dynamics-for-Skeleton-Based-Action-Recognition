@@ -1,4 +1,5 @@
-The main code is in inpainting_semi_model.py ####tensorflow 1.x
+The main code is in inpainting_semi_model.py
+####tensorflow 1.x
 
 If you find this paper helpful, please cite it as follows:
 
